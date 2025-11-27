@@ -63,110 +63,6 @@ This project builds a Logistic Regression classifier to predict diabetes onset b
 - **Comprehensive Evaluation**: Confusion matrices, classification reports, and coefficient analysis
 - **Visualizations**: FNR vs FPR curves for threshold analysis
 
-## 🚀 Installation
-
-### Prerequisites
-
-```bash
-Python 3.8+
-pip or conda package manager
-```
-
-### Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
-cd diabetes-prediction
-```
-
-2. Create a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-### Required Libraries
-
-```
-numpy>=1.21.0
-pandas>=1.3.0
-scikit-learn>=1.0.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
-```
-
-## 💻 Usage
-
-### Basic Usage
-
-```python
-# Run the complete pipeline
-python main.py
-```
-
-### Step-by-Step Execution
-
-```python
-from diabetes_predictor import DiabetesPredictor
-
-# Initialize predictor
-predictor = DiabetesPredictor()
-
-# Load and preprocess data
-predictor.load_data('data/diabetes.csv')
-predictor.preprocess_data()
-
-# Train model with regularization tuning
-predictor.train_with_regularization()
-
-# Optimize threshold
-predictor.optimize_threshold()
-
-# Evaluate model
-predictor.evaluate()
-
-# Make predictions
-predictions = predictor.predict(new_data)
-```
-
-## 📁 Project Structure
-
-```
-diabetes-prediction/
-│
-├── data/
-│   └── diabetes.csv                 # Raw dataset
-│
-├── notebooks/
-│   └── exploratory_analysis.ipynb   # EDA and experiments
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_preprocessing.py        # Data cleaning and preparation
-│   ├── model_training.py            # Model training and tuning
-│   ├── evaluation.py                # Model evaluation metrics
-│   └── visualization.py             # Plotting functions
-│
-├── models/
-│   └── best_model.pkl               # Saved trained model
-│
-├── results/
-│   ├── confusion_matrix.png
-│   ├── fnr_fpr_curve.png
-│   └── classification_report.txt
-│
-├── main.py                          # Main execution script
-├── requirements.txt                 # Project dependencies
-├── README.md                        # Project documentation
-└── LICENSE                          # License file
-```
-
 ## 🔬 Methodology
 
 ### 1. Data Cleaning & Preprocessing
@@ -307,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - Kresthill Festus *Initial work* - [YourGitHub](https://github.com/kresthill)
 
 ## 🙏 Acknowledgments
 
