@@ -11,9 +11,6 @@ A complete end-to-end machine learning pipeline for predicting diabetes using th
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Methodology](#methodology)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
@@ -197,13 +194,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - Kresthill Festus *Initial work* - [YourGitHub](https://github.com/kresthill)
+- Kresthill Festus - (https://github.com/kresthill)
 
 ## 🙏 Acknowledgments
 
@@ -214,9 +208,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: datascope1000@gmail.com
+- GitHub: (https://github.com/kresthill)
+- LinkedIn: (https://www.linkedin.com/in/festus-kresthill-178557330/))
 
 ---
 

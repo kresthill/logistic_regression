@@ -113,11 +113,11 @@ $RECYCLE.BIN/
 # Linux
 *~
 
-# ========================================
-# Project Specific - Keep Only What's Needed
-# ========================================
-# Ignore all .ipynb files EXCEPT Untitled.ipynb
-*.ipynb
+# # ========================================
+# # Project Specific - Keep Only What's Needed
+# # ========================================
+# # Ignore all .ipynb files EXCEPT Untitled.ipynb
+# *.ipynb
 !Untitled.ipynb
 
 # Ignore the checkpoint folder
