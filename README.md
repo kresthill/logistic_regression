@@ -211,9 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: datascope1000@gmail.com
+- GitHub: (https://github.com/kresthill)
+- LinkedIn: (https://www.linkedin.com/in/festus-kresthill-178557330/))
 
 ---
 
